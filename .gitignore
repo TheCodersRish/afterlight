@@ -1,0 +1,8 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Dist/
+Content/
+*.XCBuildData
+.DS_Store
